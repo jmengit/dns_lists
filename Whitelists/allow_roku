@@ -1,0 +1,23 @@
+# Required for NBC
+geo.nbcsports.com
+
+# Required for NBC
+m1.fwmrm.net
+
+# NBC Universal tracking (Adobe Omniture)
+nbcume.hb.omtrdc.net
+
+# Required for CNBC
+identity.mparticle.com
+
+# Required for Bloomberg
+pubads.g.doubleclick.net
+
+# Required for March Madness
+turnip.cdn.turner.com
+
+# Required for March Madness
+warnermediacdn.com
+
+# Samba TV event tracking
+events.cid.samba.tv
