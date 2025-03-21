@@ -19,5 +19,8 @@ turnip.cdn.turner.com
 # Required for March Madness
 warnermediacdn.com
 
+# Required for March Madness
+insights-collector.newrelic.com
+
 # Samba TV event tracking
 events.cid.samba.tv
