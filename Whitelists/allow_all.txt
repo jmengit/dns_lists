@@ -1,5 +1,6 @@
 # 
 go.redirectingat.com
+telemetry.tradingview.com
 
 # 
 nbcume.hb.omtrdc.net
