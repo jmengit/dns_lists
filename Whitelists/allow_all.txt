@@ -1,6 +1,7 @@
 # 
 go.redirectingat.com
 tradingview.com
+api.powerplatform.com
 
 # 
 nbcume.hb.omtrdc.net
